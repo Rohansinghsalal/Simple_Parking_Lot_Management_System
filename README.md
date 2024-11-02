@@ -34,10 +34,10 @@ The Parking Lot Management System is a Java application that simulates the opera
 ## Usage
 Once the application starts, a menu will be displayed with options to choose from:
 
-1 Park Vehicle
-2 Unpark Vehicle
-3 Show Available Slots
-4 Show Occupied Slots
-5 Show Price for Vehicle Type
-6 Exit
+- Park Vehicle
+- Unpark Vehicle
+- Show Available Slots
+- Show Occupied Slots
+- Show Price for Vehicle Type
+- Exit
 Follow the on-screen prompts to interact with the system
