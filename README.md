@@ -1,4 +1,4 @@
-# Parking Lot Management System
+# Simple Parking Lot Management System
 
 ## Overview
 The Parking Lot Management System is a Java application that simulates the operations of a parking lot. This system allows users to park and unpark vehicles while keeping track of available and occupied slots. It handles different types of vehicles (cars, bikes, trucks) and provides pricing based on parking duration.
