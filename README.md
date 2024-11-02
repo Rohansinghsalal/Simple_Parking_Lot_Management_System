@@ -21,17 +21,14 @@ The Parking Lot Management System is a Java application that simulates the opera
    git clone https://github.com/yourusername/parking-lot-management.git
 2. **Navigate to the project directory**:
    ```bash
-   Copy code
    cd parking-lot-management
 
 3. **Compile the Java files**:
    ```bash
-   Copy code
    javac src/com/parking/*.java
    
 4. **Run the application**:
     ```bash
-    Copy code
     java -cp src com.parking.Main
 
 ## Usage
